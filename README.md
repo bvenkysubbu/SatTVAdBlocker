@@ -16,9 +16,9 @@ Using In Memory Database like Redis
 
 ### Publish/subscribe messaging
 
-Administrators = Publishers
-Users = Subscribers
-Particular TV Channel = Particular Topic
+  Administrators = Publishers<br>
+  Users = Subscribers<br>
+  Particular TV Channel = Particular Topic<br>
 
 ### Example
 
